@@ -27,3 +27,6 @@ latest_posts:
 
 I am an MSc student in Computer Science at the Hebrew University of Jerusalem, advised by Prof. Moshe Babaioff. My research focuses on algorithmic game theory and fair division. I hold a B.Sc. in Computer Science and Economics from the Hebrew University.
 
+1. **Contact:** [gefen.frosh@mail.huji.ac.il](mailto:gefen.frosh@mail.huji.ac.il)
+2. **CV:** [Download PDF](/assets/pdf/cv.pdf)
+
