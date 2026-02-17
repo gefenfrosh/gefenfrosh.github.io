@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: gefe.frosh@mail.huji.ac.il
+subtitle: 
 
 profile:
   align: right
