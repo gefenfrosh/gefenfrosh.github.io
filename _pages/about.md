@@ -25,7 +25,7 @@ latest_posts:
 ---
 
 
-I am an M.Sc. student in Computer Science at the Hebrew University of Jerusalem, advised by [Prof. Moshe Babaioff](https://sites.google.com/view/babaioff/about-me). My research lies at the intersection of computer science and economics, with a primary focus on **Algorithmic Game Theory** and **Fair Division**. I am particularly interested in "best-of-both-worlds" fairness mechanisms and the allocation of indivisible items. I also hold a B.Sc. in Computer Science and Economics from the Hebrew University.
+I am an M.Sc. student in Computer Science at the Hebrew University of Jerusalem, advised by [Prof. Moshe Babaioff](https://sites.google.com/view/babaioff/about-me). My research lies at the intersection of computer science and economics, with a primary focus on **Algorithmic Game Theory** and **Fair Division**. I am particularly interested in "Best-of-Both-Worlds" fairness mechanisms for the allocation of indivisible items. I also hold a B.Sc. in Computer Science and Economics from the Hebrew University.
 
 Beyond academia, I have extensive experience in data analysis and technical leadership. I previously worked as a **Senior Data Analyst** at Laminar (aquired by Rubrik) and an **Analyst** at the Ministry of Finance.
 
