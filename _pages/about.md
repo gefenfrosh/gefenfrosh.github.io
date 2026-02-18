@@ -30,5 +30,5 @@ I am an M.Sc. student in Computer Science at the Hebrew University of Jerusalem,
 Beyond academia, I have extensive experience in data analysis and technical leadership. I previously worked as a **Senior Data Analyst** at Laminar (aquired by Rubrik) and an **Analyst** at the Ministry of Finance.
 
 **Contact:** [gefen.frosh@mail.huji.ac.il](mailto:gefen.frosh@mail.huji.ac.il)
-**CV:** [Download PDF](/assets/pdf/cv.pdf)
+
 
